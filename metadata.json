@@ -1,0 +1,7 @@
+{
+  "name": "MaYo Personal Finance",
+  "description": "A personal finance tracker for two users, featuring transaction management, budgeting, account tracking, and AI-powered receipt scanning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
